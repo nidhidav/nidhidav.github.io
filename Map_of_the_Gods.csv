@@ -1,0 +1,25 @@
+name,culture,location,gender,species,type,linkwik,linkgc,lon,lat,picture
+Egyptian,999del5,Egypt,female,species,c.68_69delAG c.5335delC c.4327C>T,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2912271/,linkgc,30.0444,31.2357,yoruba/orunmila-01.png
+Nigerian,2630del11 9045delGAAA 1538delAAGA,Nigeria,female,species,Y101X 1742insG 4241delTG 4359insC M1775R C64Y 1623delTTAAA Q1090X,https://pubmed.ncbi.nlm.nih.gov/22739995/,linkgc,8.6753,9.0820
+South Africans,-,South Africa,female,species,E881X 185delAG 5382insC 1493delC,https://pubmed.ncbi.nlm.nih.gov/15146556/,linkgc,30.5595,-28.918861
+African Americans,4699del4,United States of America,female,species,943ins10 1832del5 5296del4 IVS13 + 1G>A IVS1616T> C 5370C>T 5443T>G 5506C>A,https://pubmed.ncbi.nlm.nih.gov/15533909/,linkgc,-105.63159,40.08383
+Argentines,3034del4 6174delT,Argentina,female,species,185delAG 5382insC,https://pubmed.ncbi.nlm.nih.gov/23961350/,linkgc,-63.616672,-38.416097
+Bahamians,8128delA,The Bahamas,female,species,IVS13+1G> A 185delAG IVS1616T> C 943ins10 4730insG T5443G,https://pubmed.ncbi.nlm.nih.gov/25920394/,linkgc,-77.3504,25.0443
+Brazilians,c.156_157insAlu 6174delT p.S2219X p.C1290Y 6633del5 5878del10 5036delA,Brazil,female,species,185delAG 5382insC R71G 3450del4 2156delGinsCC C1201G C3522T,https://pubmed.ncbi.nlm.nih.gov/22185575/,linkgc,-52.7028,-6.2071
+Chilean,4969insTG 5374del4 6503delTT,Chile,female,species,185delAG 2605delTT 3450del4,https://pubmed.ncbi.nlm.nih.gov/22185575/,linkgc,-52.7028,-6.2071
+Colombian,1991del4 6252insG ex1-14del 3034delACAA,Colombia,female,species,3450del4 A1708E 233G > A,https://pubmed.ncbi.nlm.nih.gov/17080309/,linkgc,-74.0721,4.152032
+Costa Rican,5531delTT 6174delT C5507G,Costa Rica,female,species,-,https://pubmed.ncbi.nlm.nih.gov/21895635/,linkgc,-84.087502,9.7489
+Cuban,3394C>T,Cuba,female,species,-,https://www.ncbi.nlm.nih.gov/pubmed/18286383,linkgc,-82.366592,23.113592
+French Canadians,8765delAG,Canada,female,species,C4446T,https://www.ncbi.nlm.nih.gov/pubmed/9792861,linkgc,-100.347015,55.651070
+Mexican,-,Mexico,female,species,ex9-12del IVS5+1G> A ex18-19del ex8-9dup,https://www.ncbi.nlm.nih.gov/pubmed/25236687,linkgc,-99.133209,19.432608
+Peruvian,3036del4,Peru,female,species,185delAG 2080delA,https://www.ncbi.nlm.nih.gov/pubmed/25256238,linkgc,-77.042793,-12.046374
+Ashkenazi Jewish,6174delT,Israel,female,species,185delAG 5382insC,https://www.ncbi.nlm.nih.gov/pubmed/9145676/,linkgc,35.217018,31.771959
+Chinese,2060C>A 6819_6820delTG,China,female,species,1100delAT 1584G>T 5589_5586del8,https://www.ncbi.nlm.nih.gov/pubmed/21614564,linkgc,116.383331,39.916668
+Cypriot,8984delG,Cyprus,female,species,-,https://www.ncbi.nlm.nih.gov/pubmed/15172753,linkgc,33.022617,34.707130
+Indian,4866InsT 6079delAGTT 8345A>G 5007A>C,India,female,species,185delAG 295delCA 3050del4 2983C>A 4213delT 5267T>G,https://www.ncbi.nlm.nih.gov/pubmed/19805903,linkgc,78.9629,20.5937
+Iraqi,-,Iraq,female,species,185delAG,https://www.ncbi.nlm.nih.gov/pubmed/9536083/,linkgc,44.361488,33.312805
+Japanese,-,Japan,female,species,L63X Q934X,https://www.ncbi.nlm.nih.gov/pubmed/11595708,linkgc,139.839478,35.652832
+Pakistanis,-,Pakistan,female,species,2080insA 3889delAG 4184del4 4284delAG 3337C>T,https://www.ncbi.nlm.nih.gov/pubmed/12181777,linkgc,69.3451,30.3753
+Syrian,-,Syria,female,species,185delAG,https://www.ncbi.nlm.nih.gov/pubmed/22763381,linkgc,38.9968,34.8021
+Vietnamese,4705del4,Vietnam,female,species,185insA,https://www.ncbi.nlm.nih.gov/pubmed/20950396,linkgc,106.660172,10.762622
+Yemen,-,Yemen,female,185delAG,species,https://www.ncbi.nlm.nih.gov/pubmed/9536083,linkgc,48.5164,15.5527
